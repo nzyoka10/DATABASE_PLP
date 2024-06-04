@@ -3,10 +3,10 @@
 
 ## Overview
 
-- In this lesson, we delve into the concept of entities within the context of database design.
-- Entities represent real-world objects or concepts that we want to model and store data about. 
+- In this lesson, the concept of entities within the context of database design, is discussed further.
+- **Entities** represent `real-world objects` or `concepts that we want to model` and **`store data`** about. 
 
-## Key Topics Covered
+## Key Topics
 
 1. **Understanding Entities**:
     - Definition of entities and their significance in database design.
@@ -14,7 +14,7 @@
 
 2. **Attributes of Entities**:
     - Identifying and defining attributes that describe entities.
-    - Different types of attributes: simple attributes, composite attributes, and derived attributes.
+    - Different types of attributes: `simple attributes`, `composite attributes`, and `derived attributes`.
 
 3. **Entity Relationship Diagrams (ERDs)**:
     - Introduction to ERDs as visual representations of entities, attributes, and relationships.
@@ -33,6 +33,6 @@
 
 ## Further Reading
 
-- Database Systems: The Complete Book by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom.
-- Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design by Michael J. Hernandez.
+- **`Database Systems`**: The Complete Book by Hector Garcia-Molina, `Jeffrey D. Ullman`, and `Jennifer Widom`.
+- **`Database Design for Mere Mortals:`** A Hands-On Guide to Relational Database Design by `Michael J. Hernandez`.
 - Online tutorials and resources on entity relationship modeling and database design.
